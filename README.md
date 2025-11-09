@@ -38,7 +38,7 @@
 
 <!-- Screenshot -->
 
-![Football Highlights Screenshot](/app_screenshot.png)
+![Football Highlights Screenshot](./app_screenshot.png)
 
 <!-- PROJECT DESCRIPTION -->
 
