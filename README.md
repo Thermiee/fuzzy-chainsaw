@@ -66,8 +66,7 @@
   <ul>
     <li><a href="https://www.scorebat.com/video-api/v3/">Scorebat API</a></li>
   </ul>
-
-
+</details>
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
@@ -86,7 +85,7 @@
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://google.com)
+- [Live Demo Link](http://football.bloombinary.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
